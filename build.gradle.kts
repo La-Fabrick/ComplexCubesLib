@@ -19,6 +19,12 @@ repositories {
 dependencies {
     testImplementation(kotlin("test"))
     compileOnly("org.spigotmc:spigot-api:1.19.4-R0.1-SNAPSHOT")
+
+    implementation("org.apache.commons:commons-numbers-core:1.1")
+    implementation("org.apache.commons:commons-numbers-complex:1.1")
+    implementation("org.apache.commons:commons-numbers-primes:1.1")
+    implementation("org.apache.commons:commons-numbers-angle:1.1")
+    implementation("org.apache.commons:commons-numbers-rootfinder:1.1")
 }
 
 tasks.test {
