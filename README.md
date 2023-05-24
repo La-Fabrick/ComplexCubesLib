@@ -6,7 +6,7 @@ You must include this lib inside your jar (with ShadowJar for example) because w
 Minecraft plugin.
 
 This lib is using Apache Commons Numbers to provide complex numbers, angles and more.
-Check it [here](https://commons.apache.org/proper/commons-numbers/)
+Check it [here](https://commons.apache.org/proper/commons-numbers/).
 
 ## Technologies
 
@@ -15,3 +15,9 @@ Check it [here](https://commons.apache.org/proper/commons-numbers/)
 - Spigot for Minecraft 1.19.4
 - Azul-Zulu 17
 - Apache Commons Numbers 1.1
+
+## License
+
+This project is published under the MPL-2.0 license.
+
+You can check it in the file `LICENSE` at the root of the repository.
